@@ -1,0 +1,5 @@
+## Interface: 11404
+## Title: StanceSwap
+## Notes: Auto-swaps weapons on warrior stance change (Classic)
+## Author: You
+StanceSwap.lua
